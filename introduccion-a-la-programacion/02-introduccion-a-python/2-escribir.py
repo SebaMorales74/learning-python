@@ -29,6 +29,10 @@ print("Hola", nombre, "tienes", edad, "años")
 """
 Existen varias formas de concatenar, por lo que te voy
 a enseñar distintas formas de hacerlo y sus diferencias.
+
+Esto es fundamental cuando trabajamos con print, ya que
+nos permite mostrar mensajes y variables de forma más
+legible y ordenada.
 """
 
 """
