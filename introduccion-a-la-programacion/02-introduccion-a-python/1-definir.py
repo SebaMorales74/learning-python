@@ -21,8 +21,8 @@ Al posicionar el cursor sobre una variable, podemos ver el tipo de dato
 tal como se muestra en los siguientes ejemplos:
 """
 
-# (variable) nombre: Literal['Juan']
-nombre = "Juan"
+# (variable) nombre: Literal['']
+nombre = ""
 # (variable) nombre: type[str]
 nombre = str
 # (variable) nombre: str

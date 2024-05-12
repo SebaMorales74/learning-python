@@ -23,7 +23,7 @@ nombre = "Sebastian"
 print("Hola, como estas", nombre)
 
 # Podemos imprimir variables y expresiones de diferentes tipos
-edad = 25
+edad = 21
 print("Hola", nombre, "tienes", edad, "años")
 
 """
@@ -35,19 +35,21 @@ nos permite mostrar mensajes y variables de forma más
 legible y ordenada.
 """
 
+
 """
 1. Concatenación con el operador +
 En este caso, TODAS las variables deben ser del mismo tipo
-y debes de explicitamente escribir los espacios y los signos
+y debes de explicitamente escribir los espacios y los signos.
 """
-print("Hola " + nombre + "! tienes " + str(edad) + " años")
+
+print("Hola " + nombre + " tienes " + str(edad) + " años")
 
 """
 2. Concatenación con la función format()
 La función format() nos permite concatenar variables de
 diferentes tipos y nos permite formatear la salida.
 """
-print("Hola {}! tienes {} años".format(nombre, edad))
+print("Hola {nombre} tienes {edad} años".format(nombre=nombre, edad=edad))
 
 """
 3. Concatenación con f-strings
@@ -55,7 +57,7 @@ Las f-strings son una forma más moderna de concatenar
 variables y expresiones, es la forma más recomendada
 para concatenar en Python. (Es mi favorita :3)
 """
-print(f"Hola {nombre}! tienes {edad} años")
+print(f"Hola {nombre} tienes {edad} años")
 
 """
 4. Concatenación con %s
@@ -63,4 +65,4 @@ La concatenación con %s es una forma antigua de concatenar
 variables y expresiones, no es recomendada usarla.
 Puede ser confusa y no es tan flexible como las f-strings.
 """
-print("Hola %s! tienes %s años" % (nombre, edad))
+print("Hola %s tienes %s años" % (nombre, edad))

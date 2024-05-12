@@ -20,7 +20,7 @@ real = float(input("Ingresa un número flotante: "))
 cadena = input("Ingresa una cadena de texto: ")
 
 # Leer un valor booleano
-bandera = input("Ingresa un valor booleano (True/False): ")
+bandera = bool(input("Ingresa un valor booleano (True/False): "))
 
 """
 Tenemos que tener en cuenta que la función input() siempre devuelve una cadena de texto,
