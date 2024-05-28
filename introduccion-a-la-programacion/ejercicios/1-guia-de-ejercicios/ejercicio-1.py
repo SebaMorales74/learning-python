@@ -40,10 +40,11 @@ media = (num1 + num2 + num3) / 3
 print(f"El valor de la media es: {media}")
 
 # Resolución 2
-cantidadNumeros = int()
-suma = int()
-while cantidadNumeros > 3:
-    numero = float(input(f"Ingresa el N°{cantidadNumeros + 1}: "))
+cantidadNumeros = 0
+suma = 0
+while cantidadNumeros < 3:
+    cantidadNumeros += 1
+    numero = float(input(f"Ingresa el N°{cantidadNumeros}: "))
     suma += numero
 print(f"El valor de la media es: {suma/cantidadNumeros}")
 
