@@ -6,7 +6,7 @@ Requisitos para solucionar el problema:
     - Pedir números por teclado.
     
 ¿Qué es una media o promedio?
-https://es.wikipedia.org/wiki/Promedio
+https://es.wikipedia.org/wiki/Media_(matem%C3%A1ticas)
 
 El tipo más común de promedio es la media aritmética.
 Si se dan n números, cada número denotado por ai (donde i = 1,2, ..., n), la media aritmética es la suma de a dividida por n o.
