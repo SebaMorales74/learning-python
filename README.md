@@ -1,4 +1,6 @@
 # 📚 Learning Python 🐍
+Hola, soy el Seba. Me dedico a la informatica y me encanta enseñar. Por lo que, durante mis años estudiando ingenería en infomática, me ví en la necesidad de centralizar todos los tips, materiales y apuntes acerca de la programación en un solo lugar. Es por eso que decidí crear este repositorio, para compartir con ustedes todo lo que he aprendido y seguir aprendiendo juntos.
+
 ## 📝 Contenidos
 - [📚 Learning Python 🐍](#-learning-python-)
   - [📝 Contenidos](#-contenidos)
@@ -10,8 +12,6 @@
   - [📚 Recursos complementarios](#-recursos-complementarios)
 
 ## 📦 Introducción
-Hola, soy el Seba. Me dedico a la informatica y me encanta enseñar. Por lo que, durante mis años estudiando ingenería en infomática, me ví en la necesidad de centralizar todos los tips, materiales y apuntes acerca de la programación en un solo lugar. Es por eso que decidí crear este repositorio, para compartir con ustedes todo lo que he aprendido y seguir aprendiendo juntos.
-
 Les quiero dar la bienvenida a "Learning Python", en el cual estaré subiendo contenido útil para comprender cómo funciona Python.
 
 En este repositorio encontrarás:
