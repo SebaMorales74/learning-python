@@ -34,3 +34,8 @@ Para profundizar en los fundamentos del pensamiento computacional, te recomendam
     Microaprendizaje: ¿Qué es el pensamiento computacional? (https://youtu.be/ti315UlVtS4)
 
     Pensamiento computacional | Alberto Cañas | TEDxPuraVidaED (https://youtu.be/0TFZfvvB67Y)
+
+<hr/>
+<br/>
+
+<a href="introduccion-a-la-programacion/fundamentos-básicos/README.md"><img src="./assets/next.png" alt="Python Logo" width="150"></a>

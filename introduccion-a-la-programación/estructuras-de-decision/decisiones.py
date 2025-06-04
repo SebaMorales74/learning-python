@@ -23,6 +23,17 @@ if a < b:
 if a > b:
     print("A es mayor que B")
 
+# Además, podemos preguntar más de una cosa a la vez
+# Puedo preguntar "Si es que [pregunta] y [pregunta]"
+if a == b and a < b:
+    print("Son iguales y A es menor que B")
+# Puedo preguntar "Si es que [pregunta] o [pregunta]"
+if a == b or a < b:
+    print("Son iguales o A es menor que B")
+# Puedo preguntar "Si es que [pregunta] y [pregunta] o [pregunta]"
+if a == b and (a < b or a > b):
+    print("Son iguales y A es menor que B o A es mayor que B")
+
 # También poseemos operadores que cambian las reglas del juego
 # Puedo preguntar totalmente lo contrario
 # not "NO es [pregunta] que"
