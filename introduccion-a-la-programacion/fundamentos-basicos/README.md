@@ -146,4 +146,4 @@ Ahora, puedes continuar con el siguiente capítulo, donde exploraremos las estru
 <hr/>
 <br/>
 
-<a href="introduccion-a-la-programacion/estructuras-de-decision/README.md"><img src="../../assets/next.png" alt="Python Logo" width="150"></a>
+<a href="../estructuras-de-decision/README.md"><img src="../../assets/next.png" alt="Python Logo" width="150"></a>

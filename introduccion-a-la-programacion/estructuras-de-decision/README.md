@@ -150,4 +150,4 @@ A coninuación, puedes seguir aprendiendo sobre las estructuras repetitivas, que
 <hr/>
 <br/>
 
-<a href="introduccion-a-la-programacion/estructuras-repititivas/README.md"><img src="../../assets/next.png" alt="Python Logo" width="150"></a>
+<a href="../estructuras-repititivas/README.md"><img src="../../assets/next.png" alt="Python Logo" width="150"></a>

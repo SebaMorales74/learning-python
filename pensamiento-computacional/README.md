@@ -38,4 +38,4 @@ Para profundizar en los fundamentos del pensamiento computacional, te recomendam
 <hr/>
 <br/>
 
-<a href="introduccion-a-la-programacion/fundamentos-básicos/README.md"><img src="./assets/next.png" alt="Python Logo" width="150"></a>
+<a href="../introduccion-a-la-programacion/fundamentos-basicos/README.md"><img src="../assets/next.png" alt="Python Logo" width="150"></a>
