@@ -40,9 +40,7 @@ Podemos usar `while` junto con un contador para ejecutar código un número espe
 ```python
 contador = 0
 while True:
-    if contador == 10:
-        break
-
+    if contador == 10: break
     print("Hola", contador)
     contador += 1  # Es una simplificación de: contador = contador + 1
 ```
