@@ -42,6 +42,10 @@ Por ejemplo, al programar, puedes indicarle a una computadora que realice cálcu
 ## ¿Por qué aprender Python?
 Python es uno de los lenguajes de programación más populares y versátiles en la actualidad. Su sintaxis clara y sencilla lo hace ideal para principiantes. Además, Python se utiliza en múltiples áreas, como desarrollo web, análisis de datos, inteligencia artificial y automatización de tareas.
 
+![Comparativa Python vs Assembly](./assets/python-vs-assembly.png)
+
+> "Python es un lenguaje de programación interpretado, de alto nivel y de propósito general. Su diseño enfatiza la legibilidad del código y su sintaxis permite a los programadores expresar conceptos en menos líneas de código que otros lenguajes." - [Wikipedia](https://es.wikipedia.org/wiki/Python_(lenguaje_de_programaci%C3%B3n))
+
 Aprender Python te brinda la oportunidad de:
 * Desarrollar aplicaciones de forma rápida y eficiente.
 * Automatizar tareas repetitivas y mejorar la productividad.
@@ -50,7 +54,7 @@ Aprender Python te brinda la oportunidad de:
 
 Según el informe Octoverse 2024 de GitHub, Python es el lenguaje de programación más utilizado a nivel mundial.
 
-<img src="https://cdn.statcdn.com/Infographic/images/normal/16567.jpeg" alt="Programación" height="250">
+<img src="https://cdn.statcdn.com/Infographic/images/normal/16567.jpeg" alt="Programación" height="300">
 
 ## ¿A quién va dirigido este curso?
 Este curso está diseñado para personas sin experiencia previa en programación o informática. Si alguna vez te has preguntado cómo funcionan las aplicaciones, cómo automatizar tareas o cómo crear tus propios programas, este curso es para ti.
